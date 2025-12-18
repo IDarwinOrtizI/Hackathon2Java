@@ -11,4 +11,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25">
+    <output url="file://$PROJECT_DIR$" />
+  </component>
 </project>
